@@ -24,7 +24,7 @@ El dataset proviene de Kaggle y contiene 10.999 registros con la siguiente infor
 3.	Se utiliza Tableau para construir un dashboard interactivo que permite visualizar los factores asociados a los retrasos.
 
 ### DASHBOARD
-[<img width="1619" height="1079" alt="Dashboard" src="https://github.com/user-attachments/assets/665c9108-6a46-44c7-88b0-959b01a5283a" />](https://public.tableau.com/app/profile/zacar.as.lucas.s.nchez/viz/Shipping_17743553116960/Dashboard)
+[<img width="1619" height="1079" alt="Dashboard" src="https://github.com/user-attachments/assets/665c9108-6a46-44c7-88b0-959b01a5283a" />](https://public.tableau.com/views/Shipping_17743553116960/Dashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### CONCLUSIONES
 Tras el análisis de los datos de origen y la comprensión de los resultados obtenidos, se obtienen las siguientes conclusiones:
