@@ -1,4 +1,4 @@
-# PROYECTO DE ANÁLISIS DE DATOS SOBRE EL RENDIMIENTO LOGÍSTICO
+# PROYECTO DE ANÁLISIS DE DATOS SOBRE RENDIMIENTO LOGÍSTICO
 
 ### OBJETIVO
 Una empresa de logística quiere entender qué factores influyen en la puntualidad de las entregas. El objetivo es analizar los patrones de envío para identificar áreas de mejora y proponer medidas estratégicas que mejoren la eficiencia del proceso logístico.
