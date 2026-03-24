@@ -36,15 +36,15 @@ Tras el análisis de los datos de origen y la comprensión de los resultados obt
 -	Los productos más pesados sufren menos retrasos.
 -	Respecto al descuento aplicado, se diferencian dos comportamientos:
     - Con descuentos ≤ 10%, predominan los envíos a tiempo.
-    - Con descuentos > 10%, todos los envíos presentan retraso.
+    - Con descuentos > 10%, todos los envíos presentan retrasos.
 -	En cuanto a las variables relacionadas con la interacción del cliente:
     - Los clientes con menos compras previas sufren una mayor tasa de retrasos.
-    - Los retrasos provocan más llamadas al servicio de atención, disminuyendo por tanto el porcentaje de retrasos con el aumento del nñumero de llamadas.
+    -  Los retrasos provocan más llamadas al servicio de atención, disminuyendo por tanto el porcentaje de retrasos con el aumento del número de llamadas.
     - El retraso del producto no parece influir en la calificación del cliente. Otros factores pueden estar siendo más relevantes a la hora de calificar el producto.
 
 ### HALLAZGOS CLAVE Y PROPUESTAS
--	**Revisar las políticas de descuento**: ya que un descuento alto se asocia directamente con el retraso.
 -	**Considerar mejorar el servicio a nuevos clientes**: los clientes con menos compras previas sufren retrasos en sus envíos más frecuentemente, lo que podría dificultar captar clientes habituales.
+-	**Los productos más baratos y ligeros son los que más retrasos sufren**: revisar si se agrupan para ahorrar costes y eso condiciona que no lleguen a tiempo.
+-	**Revisar las políticas de descuento**: ya que un descuento alto se asocia directamente con el retraso.
 -	**Los productos de alta importancia son los que más retrasos sufren**: revisar la prioridad de sus envíos dada su categoría.
 -	**Analizar la sobrecarga de almacenaje en el bloque F**: aunque no presente una mayor tasa de retrasos, una redistribución del inventario podría suponer una mejora general.
--	**Los productos más baratos y ligeros son los que más retrasos sufren**: revisar si se agrupan para ahorrar costes y eso condiciona que no lleguen a tiempo.
