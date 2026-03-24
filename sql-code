@@ -3,6 +3,7 @@ Este script ha sido desarrollado con el objetivo de analizar el dataset de parti
 En este caso, la información de origen ya se encontraba limpia, lo que permite centrarse directamente en su exploración y en la obtención de los primeros insights.
 Con el objetivo final de crear un dashboard, se aprovecha este proceso para generar nuevas columnas que permitan categorizar los productos y facilitar así el trabajo posterior en herramientas de visualización.
 El script está diseñado para ser reproducible y mantenible, siguiendo una lógica estructurada y documentada en cada sección.
+Microsoft SQL Server es el sistema utilizado.
 */
 
 -- A tiempo vs retrasos vs total
