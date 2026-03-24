@@ -23,8 +23,8 @@ El dataset proviene de Kaggle y contiene 10.999 registros con la siguiente infor
 2.	Se crean nuevas variables categorizadas, como grupos de productos por coste y por peso, con el fin de facilitar el análisis posterior.
 3.	Se utiliza Tableau para construir un dashboard interactivo que permite visualizar los factores asociados a los retrasos.
 
-### LINK AL DASHBOARD
-https://public.tableau.com/app/profile/zacar.as.lucas.s.nchez/viz/Shipping_17743553116960/Dashboard
+### DASHBOARD
+[<img width="1619" height="1079" alt="Dashboard" src="https://github.com/user-attachments/assets/665c9108-6a46-44c7-88b0-959b01a5283a" />](https://public.tableau.com/app/profile/zacar.as.lucas.s.nchez/viz/Shipping_17743553116960/Dashboard)
 
 ### CONCLUSIONES
 Tras el análisis de los datos de origen y la comprensión de los resultados obtenidos, se obtienen las siguientes conclusiones:
